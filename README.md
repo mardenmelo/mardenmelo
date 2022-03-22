@@ -1,6 +1,13 @@
 
 ![Olá, eu sou o-2](https://user-images.githubusercontent.com/49822997/159439840-59aae6ff-6c7a-4400-9e25-1a0605607239.svg)
 
+
+<br>
+<br>
+
+<br>
+<br>
+
 <div align="center">
   <a href="mailto:mardenmelo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
     <a href="https://www.linkedin.com/in/marden-melo-494080169/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
@@ -12,7 +19,7 @@
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img align='center' height='180em' width='1800em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mardenmelo&layout=compact&theme=github_dark]   (https://github.com/mardenmelo/github-readme-stats)' />
-</div>
+</div> -->
 
